@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="de.plushnikov.lombok.intellij.plugin" type="repository">
+    <properties maven-id="de.plushnikov.lombok-intellij-plugin:lombok-plugin:0.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/plushnikov/lombok-intellij-plugin/lombok-plugin/0.3/lombok-plugin-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
